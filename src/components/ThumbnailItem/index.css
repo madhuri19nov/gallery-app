@@ -1,0 +1,23 @@
+/* Write your code here. */
+.thumb-nail-item {
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+
+.thubnail-button {
+  background: transparent;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 0;
+}
+
+.thumbnail {
+  width: 60px;
+  height: 60px;
+  opacity: 0.5;
+}
+
+.active {
+  opacity: 1;
+}
